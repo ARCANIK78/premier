@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Downloads/programas de programador"
+		},
+		{
+			"path": "../../../python/html"
+		},
+		{
+			"path": "../../../../Documents/Tareas de universidad/estructura de datos/codigos-python"
+		},
+		{
+			"path": "../../../../Documents/Tareas de universidad/estructura de datos/tarea 3"
+		},
+		{
+			"path": "../../../../Documents/Tareas de universidad/estructura de datos/parcial 2"
+		},
+		{
+			"path": "../../../../Downloads/pacman-python-master/pacman"
+		},
+		{
+			"path": "../../../../Documents/Tareas de universidad/estructura de datos/BaseEstudiante"
+		},
+		{
+			"path": "../../../../Documents/Tareas de universidad/estructura de datos/practica4"
+		},
+		{
+			"path": "../../../../Downloads/python-pacman-master"
+		},
+		{
+			"path": "../../../../Downloads/kivy-pacman-master"
+		},
+		{
+			"path": "../../../../Downloads/pacman-python-master"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html"
+	}
+}
